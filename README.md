@@ -37,15 +37,16 @@
 
 ## Technology Stack
 
-- **Frontend Framework**: Vue.js 2.7.14
-- **UI Library**: Element UI 2.15.12
-- **Router**: Vue Router 3.5.1
-- **Build Tool**: Vue CLI 5.0.8
-- **HTTP Client**: Axios 0.27.2
-- **Additional Libraries**: 
-  - ECharts 5.4.1 (for potential data visualization)
-  - js-cookie 3.0.1 (for cookie management)
-  - vue-monoplasty-slide-verify 1.3.1 (for verification components)
+| Category | Technology | Version | Purpose |
+|----------|------------|---------|---------|
+| Frontend Framework | Vue.js | 2.7.14 | Core application framework |
+| UI Library | Element UI | 2.15.12 | Component library and styling |
+| Router | Vue Router | 3.5.1 | Client-side routing |
+| Build Tool | Vue CLI | 5.0.8 | Development and build tooling |
+| HTTP Client | Axios | 0.27.2 | API requests and data fetching |
+| Data Visualization | ECharts | 5.4.1 | Potential chart and graph rendering |
+| Cookie Management | js-cookie | 3.0.1 | Browser cookie handling |
+| Verification Components | vue-monoplasty-slide-verify | 1.3.1 | Slide verification functionality |
 
 ## Getting Started
 
